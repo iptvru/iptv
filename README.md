@@ -4,9 +4,9 @@
 
 # Информация
 Самая новая версия в файлах или в релизах
-Последняя версия : Playlist(ver43.0).m3u
+Последняя версия : Playlist(ver44.0).m3u
 
-Beta : Playlist(ver44.0).m3u
+Beta : Playlist(ver45.0).m3u
 
 
 # Каналы
