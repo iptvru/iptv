@@ -5,7 +5,7 @@
 Плейлисты для других стран :
 
 (Нажмите на ваш флаг)
-[![image](https://emojigraph.org/media/twitter/flag-belarus_1f1e7-1f1fe.png)
+[![image](https://github.com/iptvru/iptv/assets/143511684/a3a7e673-6848-449c-985a-ae746123445b)
 ](https://github.com/iptvru/iptvby)
 
 # Информация
