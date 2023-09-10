@@ -6,7 +6,7 @@
 
 (Нажмите на ваш флаг)
 
-[https://emojigraph.org/media/twitter/flag-belarus_1f1e7-1f1fe.png](https://github.com/iptvru/iptvby)
+[🇧🇾](https://github.com/iptvru/iptvby)
 
 # Информация
 Самая новая версия в файлах или в релизах
