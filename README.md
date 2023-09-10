@@ -5,8 +5,7 @@
 Плейлисты для других стран :
 
 (Нажмите на ваш флаг)
-[![image](https://github.com/iptvru/iptv/assets/143511684/a3a7e673-6848-449c-985a-ae746123445b)
-](https://github.com/iptvru/iptvby)
+[![image](https://github.com/iptvru/iptv/assets/143511684/a3a7e673-6848-449c-985a-ae746123445b)](https://github.com/iptvru/iptvby)
 
 # Информация
 Самая новая версия в файлах или в релизах
