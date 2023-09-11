@@ -12,6 +12,8 @@
 
 Последняя версия : Playlist(ver44.0).m3u
 
+[Скачать](/Playlist(ver45.0).m3u)
+
 Beta : Playlist(ver45.0).m3u
 
 
