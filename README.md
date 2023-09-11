@@ -6,7 +6,7 @@
 
 (Нажмите на ваш флаг)
 
-[🇧🇾](https://github.com/iptvru/iptvby)
+[🇧🇾](blob:https://github.com/c800a8bd-5c96-47c8-8d5b-7b1c90a669ea)
 # Информация
 Самая новая версия в файлах или в релизах
 
