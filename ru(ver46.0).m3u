@@ -176,9 +176,9 @@ https://tbs01-edge11.itdc.ge/kinoujas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас HD" group-title="Фильмовые", Киноужас HD
 #EXTGRP:Фильмовые
 rtmp://5.182.231.251//2056
-#EXTINF:-1 tvg-id="" tvg-name="Horror TV" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15786/logo_256_1670420636.jpg" group-title="Фильмовые", Horror TV
+#EXTINF:-1 tvg-name="Horror TV" group-title="Фильмовые", Horror TV
 #EXTGRP:Фильмовые
-http://cdn-lb.iptv2022.com/p/nxfJjGYhMgG_JD4JiUY7jA,1681389680/streaming/horror_tv/324/1/tracks-v1a1/mono.m3u8
+https://mhd116.iptv2022.com/p/vnf8kEKNB6W7kKry-5jcXQ,1694725210/streaming/horror_tv/324/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Страх HD" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png" group-title="Фильмовые", Страх HD
 #EXTGRP:Фильмовые
 https://hls.goodgame.ru/hls/202127.m3u8
@@ -674,9 +674,6 @@ http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/18174/index.m3u8
 #EXTINF:-1 tvg-rec="0" tvg-name="KLI VHS HD" group-title="Фильмовые", KLI VHS HD
 #EXTGRP:Фильмовые
 http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/18173/index.m3u8
-#EXTINF:-1 tvg-rec="0" tvg-name="KLI Киносерия FHD" group-title="Фильмовые", KLI Киносерия FHD
-#EXTGRP:Фильмовые
-http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/19400/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч! НD" tvg-logo="https://i.ibb.co/v1qB5xM/Picsart-23-06-04-18-27-01-514.png" group-title="СПОРТИВНЫЕ", Матч! HD
 #EXTGRP:СПОРТИВНЫЕ
 http://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
@@ -2693,18 +2690,18 @@ http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/18169/index.m3u8
 #EXTINF:-1 tvg-rec="0" tvg-name="UZ Фантастика HD" group-title="VF & UZ", UZ Фантастика HD
 #EXTGRP:VF & UZ
 http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/13065/index.m3u8
-#EXTINF:-1 tvg-rec="0" tvg-name="KLI СССР HD" group-title="Фильмовые", KLI СССР HD
+#EXTINF:-1 tvg-rec="0" tvg-name="KLI Киносерия FHD" group-title="Фильмовые", KLI Киносерия FHD
 #EXTGRP:Фильмовые
-http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/18175/index.m3u8
+http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/19400/index.m3u8
 #EXTINF:-1 tvg-name="Мульт Бум" tvg-logo="https://smotret.tv/images/mult-bum.webp" group-title="Детские", Мульт Бум
 #EXTGRP:Детские
 https://vsd120.mycdn.me/hls/4087812852332.m3u8/sig/qjypLGr8pUk/expires/1692602945800/srcIp/95.106.165.134/urls/45.136.21.44/clientType/0/srcAg/CHROME_OPERA_MOBILE/mid/5385622068844/4087812852332_high/index.m3u8#v.m3u8
 #EXTINF:-1 tvg-name="Power +" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2601.png" group-title="Музыкальные", Power +
 #EXTGRP:Музыкальные
 https://listen.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Kinoliving HD" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goabROxXVmPjYb7BWK4E.png" group-title="Фильмовые", Kinoliving HD
+#EXTINF:-1 tvg-rec="0" tvg-name="KLI СССР HD" group-title="Фильмовые", KLI СССР HD
 #EXTGRP:Фильмовые
-http://31.211.77.158:8000/play/a053/index.m3u8
+http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/18175/index.m3u8
 #EXTINF:-1 tvg-name="Fox Kids HD" group-title="Детские", Fox Kids HD
 #EXTGRP:Детские
 https://hls.goodgame.ru/hls/179445.m3u8
@@ -2714,3 +2711,6 @@ http://88.86.215.73:1982/udp/239.99.17.201:1234
 #EXTINF:-1 tvg-id="Мультимузыка" catchup-days="7" catchup-source="http://api.peers.tv/timeshift/multmusic/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTE3ODAwNTUsImlhdCI6MTY5MTY5MzY1NSwiY2lkIjo2LCJ1aWQiOjYzMDEwOTA0NywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.H2THIW7rKG1Pi0OBpnjfErgus44cf7vqFA-Zs0B-bto&offset=10&offset=4596" tvg-name="Мультимузыка" group-title="Детские", Мультимузыка
 #EXTGRP:Детские
 http://95.46.43.215:8081/play/a03r
+#EXTINF:-1 tvg-name="Kinoliving HD" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goabROxXVmPjYb7BWK4E.png" group-title="Фильмовые", Kinoliving HD
+#EXTGRP:Фильмовые
+http://31.211.77.158:8000/play/a053/index.m3u8
