@@ -6,13 +6,13 @@
 
 (Нажмите на ваш флаг)
 
-[🇧🇾](https://github.com/iptvru/iptv/blob/main/ru(ver46.0).m3u)
+[🇧🇾](https://github.com/iptvru/iptvby)
 # Информация
 Самая новая версия в файлах или в релизах
 
 Последняя версия : Playlist(ver44.0).m3u
 
-[Скачать](/Playlist(ver45.0).m3u)
+[Скачать](https://github.com/iptvru/iptv/blob/main/ru(ver46.0).m3u)
 
 Beta : Playlist(ver45.0).m3u
 
