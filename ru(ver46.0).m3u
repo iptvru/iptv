@@ -157,7 +157,7 @@ http://cdn-lb.iptv2022.com/p/uSOjPXzOPozRJK5OvyoooA,1674072031/streaming/kinomen
 http://tv.tvip-media.net/klassikakino/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 tvg-name="Novella TV" group-title="Фильмовые", Novella TV
 #EXTGRP:Фильмовые
-https://mhd116.iptv2022.com/p/cL8xkjAMHfboT6ilkVglIQ,1694725210/streaming/telenovella/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/KrfN1IzUJka5w8fPC36GsQ,1694811610/streaming/telenovella/324/1/index.m3u8
 #EXTINF:-1 tvg-id="Киносерия" tvg-name="Киносерия" group-title="Фильмовые", Киносерия
 #EXTGRP:Фильмовые
 http://91.200.160.134:15000/play/a0f0/index.m3u8
@@ -178,7 +178,7 @@ https://tbs01-edge11.itdc.ge/kinoujas/tracks-v1a1/mono.m3u8
 rtmp://5.182.231.251//2056
 #EXTINF:-1 tvg-name="Horror TV" group-title="Фильмовые", Horror TV
 #EXTGRP:Фильмовые
-https://mhd116.iptv2022.com/p/vnf8kEKNB6W7kKry-5jcXQ,1694725210/streaming/horror_tv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/wdBp2TRIQB3rkeKnbDTlFA,1694811610/streaming/horror_tv/324/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Страх HD" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png" group-title="Фильмовые", Страх HD
 #EXTGRP:Фильмовые
 https://hls.goodgame.ru/hls/202127.m3u8
@@ -901,13 +901,13 @@ http://193.33.240.8:8080/fan/tracks-v1a1/mono.m3u8
 https://cdn-lb.iptv2022.com/p/13QoSLqoqInfUh8H8cUhaQ,1688590814/streaming/gingerhd/324/1/tracks-v5a1/index.m3u8
 #EXTINF:-1 tvg-name="Anime Kids" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goajklxXVmPjYb7BWK4E.png" group-title="Детские", Anime Kids
 #EXTGRP:Детские
-https://mhd116.iptv2022.com/p/5ZWNVxOtKT8W6IsiGGtg4w,1694725212/streaming/anime_kids/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/u69ZUcPQ8fnXIjdgYPRahQ,1694811612/streaming/anime_kids/324/1/index.m3u8
 #EXTINF:-1 tvg-id="jimjam" tvg-name="Jim Jam" group-title="Детские", Jim Jam
 #EXTGRP:Детские
 http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
 #EXTINF:-1 tvg-name="ТипТоп" tvg-logo="https://app.playlistbox.com/icon/Yw9lbPDOG1VRKZ5Rnroe8pm3LXjzgkQ2.png" group-title="Детские", ТипТоп
 #EXTGRP:Детские
-https://mhd116.iptv2022.com/p/iKFWxjAJh7TakNFDVI_BYQ,1694725212/streaming/tiptop/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/CXA7UB06mIdW2rys7YHNkQ,1694811612/streaming/tiptop/324/1/index.m3u8
 #EXTINF:-1 tvg-name="Детское Кино International" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9yEvxREnk3GBgNLKQX.png" group-title="Детские", Детское Кино International
 #EXTGRP:Детские
 https://autopilot.catcast.tv/content/38720/index.m3u8
@@ -955,7 +955,7 @@ http://31.148.48.15:80/O/index.m3u8?token=test
 https://livetv.mylifeisgood.net.ru/channels/smile.m3u8
 #EXTINF:-1 tvg-name="Детское кино" tvg-logo="https://app.playlistbox.com/icon/0B7b8PKO54QkGZ60QzxNEqAYzmrVWyjg.png" group-title="Детские", Детское кино
 #EXTGRP:Детские
-https://mhd116.iptv2022.com/p/vkKLtnzig7KDOdy1dMQHWQ,1694725212/streaming/det_kino/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/UOgx9xMB099cK2tF37vKHA,1694811612/streaming/det_kino/324/1/index.m3u8
 #EXTINF:-1 tvg-id="mama" tvg-name="Мама" group-title="Детские", Мама
 #EXTGRP:Детские
 http://31.148.48.15:80/Mama/index.m3u8?token=test
@@ -1075,7 +1075,7 @@ http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
 https://cdn-cache01.voka.tv/live/1400.m3u8
 #EXTINF:-1 tvg-name="Anime TV" group-title="Развлекательные", Anime TV
 #EXTGRP:Развлекательные
-https://mhd116.iptv2022.com/p/AJcCI7sap7yS7eU-aBqAyQ,1694725211/streaming/anime_tv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/bkpon_WfsXcnXQ5zc3e2nw,1694811611/streaming/anime_tv/324/1/index.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="Travel+Adventure FHD" group-title="Развлекательные", Travel+Adventure FHD
 #EXTGRP:Развлекательные
 http://cdn-lb.iptv2022.com/p/9goAhbzjiDqxMLVcRJuh_w,1674889015/streaming/travelhd/324/1/tracks-v5a1/mono.m3u8
@@ -1195,7 +1195,7 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 http://cdn-lb.iptv2022.com/p/Kg26Non3MZUNhqSTTOZ2cg,1674889058/streaming/kluchhd/324/1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-name="Global Star TV" group-title="Познавательные", Global Star TV
 #EXTGRP:Познавательные
-https://mhd116.iptv2022.com/p/HWU85mSTqZMH5fgsXBpe7w,1694725216/streaming/global_star/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/Dje2_uj5ri9BhR_SoCE1Eg,1694811617/streaming/global_star/324/1/index.m3u8
 #EXTINF:-1 tvg-id="hd-media" tvg-name="HD Media" group-title="Познавательные", HD Media
 #EXTGRP:Познавательные
 http://cdn-lb.iptv2022.com/p/HBNd8Pi9rmHKJtLViQdIdw,1672886988/streaming/hdmedia/324/1/index.m3u8
