@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Последнее обновление : 24.06.2023" tvg-logo="https://i.ibb.co/Jthnvp4/Picsart-23-06-24-16-02-36-349.png" group-title="🔴Информация🔴", Последнее обновление : 14.09.2023
+#EXTINF:-1 tvg-name="Последнее обновление : 24.06.2023" tvg-logo="https://i.ibb.co/Jthnvp4/Picsart-23-06-24-16-02-36-349.png" group-title="🔴Информация🔴", Последнее обновление : 17.09.2023
 #EXTGRP:🔴Информация🔴
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Наш Телеграм : @iptvtg" tvg-logo="https://i.ibb.co/1nvjDXp/Picsart-23-06-24-18-29-27-047.png" group-title="🔴Информация🔴", Наш Телеграм : @iptvtg
 #EXTGRP:🔴Информация🔴
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="https://toplogos.ru/images/logo-perviy-kanal-hd.png" group-title="ЭФИРНЫЕ", Первый канал HD | Auto
 #EXTGRP:ЭФИРНЫЕ
 https://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/playlist.m3u8
@@ -16,7 +16,7 @@ http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:-1 tvg-name="НТВ HD" tvg-logo="https://karnei4.github.io/convert/ntv_hd.png" group-title="ЭФИРНЫЕ", НТВ HD | Auto
 #EXTGRP:ЭФИРНЫЕ
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+http://cdn.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Пятый канал" tvg-logo="https://i.ibb.co/f29hPwf/Picsart-23-06-04-15-18-37-835.png" group-title="ЭФИРНЫЕ", Пятый канал
 #EXTGRP:ЭФИРНЫЕ
 http://178.212.236.2/5ch/index.m3u8
@@ -31,7 +31,7 @@ http://uclck.ru/HUMLu
 http://178.212.236.2/MyPlanet/index.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-name="Карусель FHD" tvg-logo="https://i.ibb.co/9cGz9FM/1200px-Karusel-2019-svg.png" group-title="ЭФИРНЫЕ", Карусель FHD
 #EXTGRP:ЭФИРНЫЕ
-http://31.211.77.158:8000/play/a060/index.m3u8
+https://mhd128.iptv2022.com/p/9L0qdGELXJlT42O0w1HsWw,1695054969/streaming/karusel/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-name="ОТР" tvg-logo="https://i.ibb.co/tBp3YCD/Picsart-23-06-04-15-06-20-134.png" group-title="ЭФИРНЫЕ", ОТР HD
 #EXTGRP:ЭФИРНЫЕ
 http://31.132.239.231:4022/udp/225.0.56.126:1234
@@ -53,7 +53,7 @@ http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
 #EXTINF:-1 tvg-name="ТВ3 HD" tvg-logo="https://i.ibb.co/HVb1Zdn/Picsart-23-06-04-14-54-11-979.png" group-title="ЭФИРНЫЕ", ТВ3 HD | Auto
 #EXTGRP:ЭФИРНЫЕ
 http://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD.m3u8
-#EXTINF:-1 tvg-name="Пятница! HD" tvg-logo="https://karnei4.github.io/convert/pyatnica_hd.png" group-title="ЭФИРНЫЕ", Пятница! HD | Auto
+#EXTINF:-1 tvg-name="Пятница! HD" tvg-id="piatnica" tvg-logo="https://karnei4.github.io/convert/pyatnica_hd.png" group-title="ЭФИРНЫЕ", Пятница! HD | Auto
 #EXTGRP:ЭФИРНЫЕ
 http://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD.m3u8
 #EXTINF:-1 tvg-name="Звезда HD" tvg-logo="https://karnei4.github.io/convert/zvezda.png" group-title="ЭФИРНЫЕ", Звезда HD
@@ -61,16 +61,16 @@ http://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-name="МИР HD" tvg-logo="https://app.playlistbox.com/icon/dbPpzO3N2aBrqlovVkoy1vm7j4wQWYnR.png" group-title="ЭФИРНЫЕ", МИР HD
 #EXTGRP:ЭФИРНЫЕ
-http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-name="ТНТ HD" tvg-id="tnt" tvg-logo="https://i.ibb.co/Xy1SQ9n/Picsart-23-06-04-14-46-12-891.png" group-title="ЭФИРНЫЕ", ТНТ HD | Auto
 #EXTGRP:ЭФИРНЫЕ
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD.m3u8
 #EXTINF:-1 tvg-name="МУЗ ТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MUZ_TV_LOGO.png/1200px-MUZ_TV_LOGO.png" group-title="ЭФИРНЫЕ", Муз ТВ
 #EXTGRP:ЭФИРНЫЕ
-http://188.143.128.24:30002/play/p20/index.m3u8
+https://er-cdn.ertelecom.ru/os/video/hls/c362375a506d3fbbf9f0d1c6bef58d686304ebe078bbf239659b16a568220b69a2c3deaa3370856097aa6f09d4c54c8ef4cfa55f50a6089dcbaf34bc33b1cab733521f7a207b14438df58d1ef9334a3181474da26c8717bf150fa9846076324f6dc40e41fd837695e3a7460255f02e2960ae8ae450d98afb3f24e8ed822bf9546aa9092bfaf0eac4cf92b0aa6427d51af34c8b9de14c2a9a3aae5c7a953ea1055374d5fc54269debe9d782a6e18838ec59bd258006064ae4ed88b1eb377e30d3a3e9eb158bfe31a9b98a48bf73b0f6ef8796b36d8503cb4245cb919a33be918ec913f9e41d3d03c32ce1d544537fd763a9ac3502e1c5547f185e36be5efc139da18e69423a14296be8b650a4be0d45185c82851a4807bbf630aaf23b10cc76d70d0c456724035bf728feba38889344e59e1f3ebd57319bae7bee4aeaf9bc22aff5dfef91e147661dda910feebcc17099c04bb5c538a30e089c2755c71abfe7bf/playlist.m3u8
 #EXTINF:-1 tvg-name="Ю" group-title="ЭФИРНЫЕ", Ю
 #EXTGRP:ЭФИРНЫЕ
-http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
+http://46.174.83.66/U/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" EXTVLCOPT="ExoPlayer2/2.37" tvg-name="Первый Ярославский HD" tvg-logo="https://karnei4.github.io/convert/perviy_yaroslav.png" group-title="ЭФИРНЫЕ", Первый Ярославский HD
 #EXTGRP:ЭФИРНЫЕ
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8?offset=-4209&utcstart=1687162210
@@ -157,7 +157,7 @@ http://cdn-lb.iptv2022.com/p/uSOjPXzOPozRJK5OvyoooA,1674072031/streaming/kinomen
 http://tv.tvip-media.net/klassikakino/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 tvg-name="Novella TV" group-title="Фильмовые", Novella TV
 #EXTGRP:Фильмовые
-https://mhd116.iptv2022.com/p/KrfN1IzUJka5w8fPC36GsQ,1694811610/streaming/telenovella/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/e5M1jC85o39YTSld7amW5Q,1695070810/streaming/telenovella/324/1/index.m3u8
 #EXTINF:-1 tvg-id="Киносерия" tvg-name="Киносерия" group-title="Фильмовые", Киносерия
 #EXTGRP:Фильмовые
 http://91.200.160.134:15000/play/a0f0/index.m3u8
@@ -178,7 +178,7 @@ https://tbs01-edge11.itdc.ge/kinoujas/tracks-v1a1/mono.m3u8
 rtmp://5.182.231.251//2056
 #EXTINF:-1 tvg-name="Horror TV" group-title="Фильмовые", Horror TV
 #EXTGRP:Фильмовые
-https://mhd116.iptv2022.com/p/wdBp2TRIQB3rkeKnbDTlFA,1694811610/streaming/horror_tv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/gctXRRnJ9cvPNd_WEsVYPg,1695070810/streaming/horror_tv/324/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Страх HD" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png" group-title="Фильмовые", Страх HD
 #EXTGRP:Фильмовые
 https://hls.goodgame.ru/hls/202127.m3u8
@@ -674,6 +674,51 @@ http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/18174/index.m3u8
 #EXTINF:-1 tvg-rec="0" tvg-name="KLI VHS HD" group-title="Фильмовые", KLI VHS HD
 #EXTGRP:Фильмовые
 http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/18173/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-name="KLI Киносерия FHD" group-title="Фильмовые", KLI Киносерия FHD
+#EXTGRP:Фильмовые
+http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/19400/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-name="KLI СССР HD" group-title="Фильмовые", KLI СССР HD
+#EXTGRP:Фильмовые
+http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/18175/index.m3u8
+#EXTINF:-1 tvg-name="Kinoliving HD" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goabROxXVmPjYb7BWK4E.png" group-title="Фильмовые", Kinoliving HD
+#EXTGRP:Фильмовые
+http://31.211.77.158:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал 1" group-title="Фильмовые", Кинозал 1
+#EXTGRP:Фильмовые
+http://rhsbjv7k.tvclub.xyz/iptv/CRU56KQKTF6BAH/18126/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал 2" group-title="Фильмовые", Кинозал 2
+#EXTGRP:Фильмовые
+http://rhsbjv7k.tvclub.xyz/iptv/CRU56KQKTF6BAH/18127/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал 3" group-title="Фильмовые", Кинозал 3
+#EXTGRP:Фильмовые
+http://rhsbjv7k.tvclub.xyz/iptv/CRU56KQKTF6BAH/18128/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал 4" group-title="Фильмовые", Кинозал 4
+#EXTGRP:Фильмовые
+http://rhsbjv7k.tvclub.xyz/iptv/CRU56KQKTF6BAH/18129/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал 5" group-title="Фильмовые", Кинозал 5
+#EXTGRP:Фильмовые
+http://rhsbjv7k.tvclub.xyz/iptv/CRU56KQKTF6BAH/18130/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал 6" group-title="Фильмовые", Кинозал 6
+#EXTGRP:Фильмовые
+http://rhsbjv7k.tvclub.xyz/iptv/CRU56KQKTF6BAH/18131/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал 7" group-title="Фильмовые", Кинозал 7
+#EXTGRP:Фильмовые
+http://rhsbjv7k.tvclub.xyz/iptv/CRU56KQKTF6BAH/18132/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал 8" group-title="Фильмовые", Кинозал 8
+#EXTGRP:Фильмовые
+http://rhsbjv7k.tvclub.xyz/iptv/CRU56KQKTF6BAH/18133/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал 9" group-title="Фильмовые", Кинозал 9
+#EXTGRP:Фильмовые
+http://rhsbjv7k.tvclub.xyz/iptv/CRU56KQKTF6BAH/18134/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал 10" group-title="Фильмовые", Кинозал 10
+#EXTGRP:Фильмовые
+http://rhsbjv7k.tvclub.xyz/iptv/CRU56KQKTF6BAH/18135/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал 11" group-title="Фильмовые", Кинозал 11
+#EXTGRP:Фильмовые
+http://rhsbjv7k.tvclub.xyz/iptv/CRU56KQKTF6BAH/18136/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал 12" group-title="Фильмовые", Кинозал 12
+#EXTGRP:Фильмовые
+http://rhsbjv7k.tvclub.xyz/iptv/CRU56KQKTF6BAH/18137/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч! НD" tvg-logo="https://i.ibb.co/v1qB5xM/Picsart-23-06-04-18-27-01-514.png" group-title="СПОРТИВНЫЕ", Матч! HD
 #EXTGRP:СПОРТИВНЫЕ
 http://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
@@ -841,10 +886,10 @@ http://tv3.skaztv.online:34001/36/tracks-v1a1/mono.m3u8?token=xJI5DVMjmrTRP2
 https://e7.varcdn.top/1tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Карусель" tvg-name="Карусель." tvg-logo="https://i.ibb.co/9cGz9FM/1200px-Karusel-2019-svg.png" group-title="Детские", Карусель
 #EXTGRP:Детские
-http://188.143.128.24:30000/play/a8/index.m3u8
-#EXTINF:-1 tvg-id="Карусель" tvg-name="Карусель FHD" tvg-logo="https://i.ibb.co/9cGz9FM/1200px-Karusel-2019-svg.png" group-title="Детские", Карусель FНD
+https://mhd.iptv2022.com/p/9L0qdGELXJlT42O0w1HsWw,1695054969/streaming/karusel/324/5/index.m3u8
+#EXTINF:-1 tvg-id="Карусель" tvg-name="Карусель FHD" tvg-logo="https://i.ibb.co/9cGz9FM/1200px-Karusel-2019-svg.png" group-title="Детские", Карусель FHD
 #EXTGRP:Детские
-http://31.211.77.158:8000/play/a060/index.m3u8
+https://mhd128.iptv2022.com/p/9L0qdGELXJlT42O0w1HsWw,1695054969/streaming/karusel/324/5/tracks-v5a1/playlist.m3u8
 #EXTINF:-1 tvg-name="Мульт" tvg-logo="https://app.playlistbox.com/icon/7gAKaznkE1ybVxBDjlZ0PGQ4d98RpY2O.png" group-title="Детские", Мульт HD
 #EXTGRP:Детские
 http://91.200.160.134:15000/play/a0pw/index.m3u8
@@ -901,13 +946,13 @@ http://193.33.240.8:8080/fan/tracks-v1a1/mono.m3u8
 https://cdn-lb.iptv2022.com/p/13QoSLqoqInfUh8H8cUhaQ,1688590814/streaming/gingerhd/324/1/tracks-v5a1/index.m3u8
 #EXTINF:-1 tvg-name="Anime Kids" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goajklxXVmPjYb7BWK4E.png" group-title="Детские", Anime Kids
 #EXTGRP:Детские
-https://mhd116.iptv2022.com/p/u69ZUcPQ8fnXIjdgYPRahQ,1694811612/streaming/anime_kids/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/iVJHyxw4NZjXvw43KIz1MA,1695070812/streaming/anime_kids/324/1/index.m3u8
 #EXTINF:-1 tvg-id="jimjam" tvg-name="Jim Jam" group-title="Детские", Jim Jam
 #EXTGRP:Детские
 http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
 #EXTINF:-1 tvg-name="ТипТоп" tvg-logo="https://app.playlistbox.com/icon/Yw9lbPDOG1VRKZ5Rnroe8pm3LXjzgkQ2.png" group-title="Детские", ТипТоп
 #EXTGRP:Детские
-https://mhd116.iptv2022.com/p/CXA7UB06mIdW2rys7YHNkQ,1694811612/streaming/tiptop/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/H5TNIdBK8oIUr5Duv_mUfA,1695070812/streaming/tiptop/324/1/index.m3u8
 #EXTINF:-1 tvg-name="Детское Кино International" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9yEvxREnk3GBgNLKQX.png" group-title="Детские", Детское Кино International
 #EXTGRP:Детские
 https://autopilot.catcast.tv/content/38720/index.m3u8
@@ -955,7 +1000,7 @@ http://31.148.48.15:80/O/index.m3u8?token=test
 https://livetv.mylifeisgood.net.ru/channels/smile.m3u8
 #EXTINF:-1 tvg-name="Детское кино" tvg-logo="https://app.playlistbox.com/icon/0B7b8PKO54QkGZ60QzxNEqAYzmrVWyjg.png" group-title="Детские", Детское кино
 #EXTGRP:Детские
-https://mhd116.iptv2022.com/p/UOgx9xMB099cK2tF37vKHA,1694811612/streaming/det_kino/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/wLtO7h7e0knk2Yr21gBZiQ,1695070812/streaming/det_kino/324/1/index.m3u8
 #EXTINF:-1 tvg-id="mama" tvg-name="Мама" group-title="Детские", Мама
 #EXTGRP:Детские
 http://31.148.48.15:80/Mama/index.m3u8?token=test
@@ -971,9 +1016,6 @@ http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 #EXTINF:-1 tvg-name="Мультики и Сказки" group-title="Детские", Мультики и Сказки
 #EXTGRP:Детские
 https://hls.goodgame.ru/hls/198446.m3u8
-#EXTINF:-1 tvg-name="Фиксики" tvg-logo="https://i.ibb.co/pv88yBY/Picsart-23-07-23-12-11-22-842.png" group-title="Детские", Фиксики
-#EXTGRP:Детские
-http://34f4d057.shukinuki.website/iptv/SESPZVV922UXEK/18137/index.m3u8
 #EXTINF:-1 tvg-name="KLI Kids FHD" tvg-logo="https://app.playlistbox.com/icon/ROQV8j3aWyE2vxpLVzxwb4Gle19kPLKn.png" group-title="Детские", KLI Kids FHD
 #EXTGRP:Детские
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/20047/index.m3u8
@@ -1010,9 +1052,15 @@ http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/14233/index.m3u8
 #EXTINF:-1 tvg-name="Yosso TV Kids" tvg-logo="https://app.playlistbox.com/icon/6ga80m54j7eJAxNWjaMYOLbBln3EQNrP.png" group-title="Детские", Yosso TV Kids
 #EXTGRP:Детские
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/14173/index.m3u8
-#EXTINF:-1 tvg-name="Кинозал 11" group-title="Детские", Кинозал 11
+#EXTINF:-1 tvg-name="Мульт Бум" tvg-logo="https://smotret.tv/images/mult-bum.webp" group-title="Детские", Мульт Бум
 #EXTGRP:Детские
-http://34f4d057.shukinuki.website/iptv/SESPZVV922UXEK/18136/index.m3u8
+https://vsd120.mycdn.me/hls/4087812852332.m3u8/sig/qjypLGr8pUk/expires/1692602945800/srcIp/95.106.165.134/urls/45.136.21.44/clientType/0/srcAg/CHROME_OPERA_MOBILE/mid/5385622068844/4087812852332_high/index.m3u8#v.m3u8
+#EXTINF:-1 tvg-name="Fox Kids HD" group-title="Детские", Fox Kids HD
+#EXTGRP:Детские
+https://hls.goodgame.ru/hls/179445.m3u8
+#EXTINF:-1 tvg-id="Мультимузыка" catchup-days="7" catchup-source="http://api.peers.tv/timeshift/multmusic/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTE3ODAwNTUsImlhdCI6MTY5MTY5MzY1NSwiY2lkIjo2LCJ1aWQiOjYzMDEwOTA0NywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.H2THIW7rKG1Pi0OBpnjfErgus44cf7vqFA-Zs0B-bto&offset=10&offset=4596" tvg-name="Мультимузыка" group-title="Детские", Мультимузыка
+#EXTGRP:Детские
+http://95.46.43.215:8081/play/a03r
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-name="Comedy Central" group-title="Развлекательные", Comedy Central
 #EXTGRP:Развлекательные
 http://a5815139.edmonst.net/iptv/MXU5L43FMWHTMN/6000/index.m3u8
@@ -1075,7 +1123,7 @@ http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
 https://cdn-cache01.voka.tv/live/1400.m3u8
 #EXTINF:-1 tvg-name="Anime TV" group-title="Развлекательные", Anime TV
 #EXTGRP:Развлекательные
-https://mhd116.iptv2022.com/p/bkpon_WfsXcnXQ5zc3e2nw,1694811611/streaming/anime_tv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/2dWNniXaMc2sP7ro0V4heg,1695070811/streaming/anime_tv/324/1/index.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="Travel+Adventure FHD" group-title="Развлекательные", Travel+Adventure FHD
 #EXTGRP:Развлекательные
 http://cdn-lb.iptv2022.com/p/9goAhbzjiDqxMLVcRJuh_w,1674889015/streaming/travelhd/324/1/tracks-v5a1/mono.m3u8
@@ -1154,6 +1202,9 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="12 канал HD" tvg-logo="https://app.playlistbox.com/icon/3JdNBAn1Kmr52ZKKERZ9qgWpjewz6vyk.png" group-title="Развлекательные", 12 канал HD
 #EXTGRP:Развлекательные
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-name="Лапки Live" tvg-logo="https://i.ibb.co/HCJGLBL/Picsart-23-06-19-13-09-32-935.png" group-title="Развлекательные", Лапки Live
+#EXTGRP:Развлекательные
+http://88.86.215.73:1982/udp/239.99.17.201:1234
 #EXTINF:-1 tvg-name="Code Fashion TV HD" group-title="КАНАЛЫ О МОДЕ", Code Fashion TV HD
 #EXTGRP:КАНАЛЫ О МОДЕ
 http://dmi3y-tv.ru/hls/CH_CODE_FTVHD.m3u8
@@ -1195,7 +1246,7 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 http://cdn-lb.iptv2022.com/p/Kg26Non3MZUNhqSTTOZ2cg,1674889058/streaming/kluchhd/324/1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-name="Global Star TV" group-title="Познавательные", Global Star TV
 #EXTGRP:Познавательные
-https://mhd116.iptv2022.com/p/Dje2_uj5ri9BhR_SoCE1Eg,1694811617/streaming/global_star/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/ueXZoIIQLvXxUjN0gQ10Ng,1695070817/streaming/global_star/324/1/index.m3u8
 #EXTINF:-1 tvg-id="hd-media" tvg-name="HD Media" group-title="Познавательные", HD Media
 #EXTGRP:Познавательные
 http://cdn-lb.iptv2022.com/p/HBNd8Pi9rmHKJtLViQdIdw,1672886988/streaming/hdmedia/324/1/index.m3u8
@@ -1469,6 +1520,9 @@ http://cdn-lb.iptv2022.com/p/UOWMtikO0BkxaT6nBUr9wQ,1672887131/streaming/terra/3
 #EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet" group-title="Познавательные", Animal Planet
 #EXTGRP:Познавательные
 http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet HD" group-title="Познавательные", Animal Planet HD
+#EXTGRP:Познавательные
+http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
 #EXTINF:-1 tvg-name="МУЗ ТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MUZ_TV_LOGO.png/1200px-MUZ_TV_LOGO.png" group-title="Музыкальные", Муз Тв
 #EXTGRP:Музыкальные
 http://188.143.128.24:30002/play/p20/index.m3u8
@@ -1535,9 +1589,6 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-name="RU TV HLS" group-title="Музыкальные", RU TV HLS
 #EXTGRP:Музыкальные
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
-#EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet HD" group-title="Познавательные", Animal Planet HD
-#EXTGRP:Познавательные
-http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
 #EXTINF:-1 tvg-id="gakku" tvg-name="Gakku" group-title="Музыкальные", Gakku
 #EXTGRP:Музыкальные
 https://sc.id-tv.kz/Gakku_34_35.m3u8
@@ -1856,6 +1907,9 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Europa plus tv HD" tvg-logo="https://app.playlistbox.com/icon/vQ97O6Vp54NE2yxmOrZLKe3Pjln8qJAm.png" group-title="Музыкальные", Europa plus tv HD
 #EXTGRP:Музыкальные
 http://109.200.135.130:8080/europa-plus-tv/index.m3u8
+#EXTINF:-1 tvg-name="Power +" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2601.png" group-title="Музыкальные", Power +
+#EXTGRP:Музыкальные
+https://listen.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="shopping-live" tvg-name="Shopping Live" group-title="ТЕЛЕМАГАЗИНЫ", Shopping Live
 #EXTGRP:ТЕЛЕМАГАЗИНЫ
 http://dmi3y-tv.ru/hls/CH_SHOPPINGLIVE.m3u8
@@ -2141,9 +2195,9 @@ http://88.216.83.245/rtg/index.m3u8
 #EXTINF:-1 tvg-id="7866" tvg-name="Radio Delta TV International" group-title="International", Radio Delta TV International
 #EXTGRP:International
 https://w1.mediastreaming.it/deltainternational/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="ТНТ International" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx96dXMREnk3GBgNLKQX.png" group-title="International", ТНТ International
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&stream_start_offset=${offset}000000" tvg-name="ТНТ International" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx96dXMREnk3GBgNLKQX.png" group-title="International", ТНТ International
 #EXTGRP:International
-http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiOWRjZGQ5NTAtNmM5MS00YWU2LThmODEtNTMwYWNhNzU2YmViIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA5LTExVDE5OjExOjM0WiIsInN0cmVhbV9uYW1lIjoiNTEyMCIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFGEEYODpeLi8r7A1q2F7zd3HCgMqAhQL9H9HI8166XhUdhMVe0klY0xAjQ%3D%3D/ip_v5/5120.m3u8
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiMjRmNmU5OTItYzRlMi00M2ZlLTg0ZmYtMzAwOTA0YTY4MDRiIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA5LTE4VDE4OjUzOjEwWiIsInN0cmVhbV9uYW1lIjoiNTEyMCIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MC0CFAQp8vEXDszLTC_6dwmW6vzZqTk9AhUAjjLGBj3Fkl1_1Mez5l0nUQw_Exo%3D/ip_v5/5120.m3u8
 #EXTINF:-1 tvg-name="ТНТ Exclusive TV" tvg-logo="https://picon.pp.ua/tnt-excl.png" group-title="International", ТНТ Exclusive TV
 #EXTGRP:International
 http://89.28.25.122/hls/tnt_md.m3u8
@@ -2171,15 +2225,9 @@ http://89.254.128.5:22280/1_2/mono.m3u8
 #EXTINF:-1 tvg-name="8 канал International" tvg-logo="https://app.playlistbox.com/icon/qLQeVBN6481ymxna79oJ9XldROAzkg75.png" group-title="International", 8 канал International
 #EXTGRP:International
 http://v4.proofix.ru/8tv-europe/index.m3u8
-#EXTINF:-1 tvg-name="БелМузТВ" tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxRLX0Zn5k71JNgAKrml.png" group-title="International", БелМузТВ
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&stream_start_offset=${offset}000000" tvg-name="БелМузТВ" tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxRLX0Zn5k71JNgAKrml.png" group-title="International", БелМузТВ
 #EXTGRP:International
-http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiODgzZTAyNmYtODFjZC00NjA5LTg4NzYtMzkwYmRiZmVlZjNjIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA5LTEyVDE4OjU0OjM4WiIsInN0cmVhbV9uYW1lIjoiOTY2Iiwic3RyZWFtX3BhdGgiOiIvaXBfdjUiLCJkYXRhY2VudGVyIjoiaW50IiwicHJvamVjdCI6InZva2FfcHJvZHVjdGlvbiJ9/MCwCFHZDEmrBmujd71FnKSIMC1Gx5LZhAhQmTAxcSWYguFy35y-X1buiwMABVQ%3D%3D/ip_v5/966.m3u8
-#EXTINF:-1 tvg-name="Карусель International" tvg-logo="https://app.playlistbox.com/icon/3JdNBAn1Kmr52ZK0p2o9qgWpjewz6vyk.png" group-title="International", Карусель International
-#EXTGRP:International
-https://tbs01-edge11.itdc.ge/karusel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Охотник и рыболов Int. HD" tvg-name="Охотник и Рыболов International" group-title="International", Охотник и Рыболов International
-#EXTGRP:International
-https://stream-msk-14.ott.tricolor.tv/dtv/id614_MSKSG-PVR-1--Ohotnik_i_ryb_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTY5MjIyMjY4MSwiaHdpZCI6ImI2YjQ3YmM4NWZhNWJmZDI5Mzk3MTg2MzFmMzZiNzg3YzYwZGYwNzdhZmRhZDM5ZTZmZTQ5NWRhMTI0NTBlYjIiLCJsYXN0X3JlcV9kYXRlIjoxNjkxNjE3ODgxLCJzZXNzaW9uX2lkIjoiNDQ4NGJmNzY3ZWM3ZDlmMDMwZmNhZGViOTY4MTdiZjkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.m-xtEjCqQnrRIS6LF1sFOfwHRgOONO7FP_ZNyouWgUM
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiN2EwMDMyOTktNWU1NC00MmQ4LTllNWMtMjZhYTAwM2I0YjA1IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA5LTE4VDE4OjU1OjIzWiIsInN0cmVhbV9uYW1lIjoiOTY2Iiwic3RyZWFtX3BhdGgiOiIvaXBfdjUiLCJkYXRhY2VudGVyIjoiaW50IiwicHJvamVjdCI6InZva2FfcHJvZHVjdGlvbiJ9/MC0CFQCKp2Et4m3UJPoRah8YeZF1j18M9wIUInMIYdH4tkbFzai5Juj8x1wxpqU%3D/ip_v5/966.m3u8
 #EXTINF:-1 tvg-name="World HD" group-title="Relax", World HD
 #EXTGRP:Relax
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
@@ -2690,27 +2738,9 @@ http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/18169/index.m3u8
 #EXTINF:-1 tvg-rec="0" tvg-name="UZ Фантастика HD" group-title="VF & UZ", UZ Фантастика HD
 #EXTGRP:VF & UZ
 http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/13065/index.m3u8
-#EXTINF:-1 tvg-rec="0" tvg-name="KLI Киносерия FHD" group-title="Фильмовые", KLI Киносерия FHD
-#EXTGRP:Фильмовые
-http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/19400/index.m3u8
-#EXTINF:-1 tvg-name="Мульт Бум" tvg-logo="https://smotret.tv/images/mult-bum.webp" group-title="Детские", Мульт Бум
-#EXTGRP:Детские
-https://vsd120.mycdn.me/hls/4087812852332.m3u8/sig/qjypLGr8pUk/expires/1692602945800/srcIp/95.106.165.134/urls/45.136.21.44/clientType/0/srcAg/CHROME_OPERA_MOBILE/mid/5385622068844/4087812852332_high/index.m3u8#v.m3u8
-#EXTINF:-1 tvg-name="Power +" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2601.png" group-title="Музыкальные", Power +
-#EXTGRP:Музыкальные
-https://listen.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
-#EXTINF:-1 tvg-rec="0" tvg-name="KLI СССР HD" group-title="Фильмовые", KLI СССР HD
-#EXTGRP:Фильмовые
-http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/18175/index.m3u8
-#EXTINF:-1 tvg-name="Fox Kids HD" group-title="Детские", Fox Kids HD
-#EXTGRP:Детские
-https://hls.goodgame.ru/hls/179445.m3u8
-#EXTINF:-1 tvg-name="Лапки Live" tvg-logo="https://i.ibb.co/HCJGLBL/Picsart-23-06-19-13-09-32-935.png" group-title="Развлекательные", Лапки Live
-#EXTGRP:Развлекательные
-http://88.86.215.73:1982/udp/239.99.17.201:1234
-#EXTINF:-1 tvg-id="Мультимузыка" catchup-days="7" catchup-source="http://api.peers.tv/timeshift/multmusic/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTE3ODAwNTUsImlhdCI6MTY5MTY5MzY1NSwiY2lkIjo2LCJ1aWQiOjYzMDEwOTA0NywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.H2THIW7rKG1Pi0OBpnjfErgus44cf7vqFA-Zs0B-bto&offset=10&offset=4596" tvg-name="Мультимузыка" group-title="Детские", Мультимузыка
-#EXTGRP:Детские
-http://95.46.43.215:8081/play/a03r
-#EXTINF:-1 tvg-name="Kinoliving HD" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goabROxXVmPjYb7BWK4E.png" group-title="Фильмовые", Kinoliving HD
-#EXTGRP:Фильмовые
-http://31.211.77.158:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-name="Карусель International" tvg-logo="https://app.playlistbox.com/icon/3JdNBAn1Kmr52ZK0p2o9qgWpjewz6vyk.png" group-title="International", Карусель International
+#EXTGRP:International
+https://tbs01-edge11.itdc.ge/karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Охотник и рыболов Int. HD" tvg-name="Охотник и Рыболов International" group-title="International", Охотник и Рыболов International
+#EXTGRP:International
+https://stream-msk-14.ott.tricolor.tv/dtv/id614_MSKSG-PVR-1--Ohotnik_i_ryb_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTY5MjIyMjY4MSwiaHdpZCI6ImI2YjQ3YmM4NWZhNWJmZDI5Mzk3MTg2MzFmMzZiNzg3YzYwZGYwNzdhZmRhZDM5ZTZmZTQ5NWRhMTI0NTBlYjIiLCJsYXN0X3JlcV9kYXRlIjoxNjkxNjE3ODgxLCJzZXNzaW9uX2lkIjoiNDQ4NGJmNzY3ZWM3ZDlmMDMwZmNhZGViOTY4MTdiZjkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.m-xtEjCqQnrRIS6LF1sFOfwHRgOONO7FP_ZNyouWgUM
