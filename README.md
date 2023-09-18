@@ -10,11 +10,11 @@
 # Информация
 Самая новая версия в файлах или в релизах
 
-Последняя версия : ru(ver46.0).m3u
+Последняя версия : ru(ver47.0).m3u
 
-[Скачать](https://github.com/iptvru/iptv/blob/main/ru(ver46.0).m3u)
+[Скачать](https://github.com/iptvru/iptv/blob/main/ru(ver47.0).m3u)
 
-Beta : ru(ver47.0).m3u
+Beta : ru(ver48.0).m3u
 
 
 # Каналы
