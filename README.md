@@ -12,7 +12,7 @@
 
 Последняя версия : ru(ver47.0).m3u
 
-[Скачать](https://github.com/iptvru/iptv/blob/main/ru(ver47.0).m3u)
+[Скачать](https://github.com/iptvru/iptv/releases/download/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F-47/ru.ver47.0.m3u)
 
 Beta : ru(ver48.0).m3u
 
