@@ -160,7 +160,7 @@ http://cdn-lb.iptv2022.com/p/uSOjPXzOPozRJK5OvyoooA,1674072031/streaming/kinomen
 http://tv.tvip-media.net/klassikakino/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 tvg-name="Novella TV" group-title="Фильмовые", Novella TV
 #EXTGRP:Фильмовые
-https://mhd116.iptv2022.com/p/WRiXovajmtkmQ3WKQyU2zg,1695934809/streaming/telenovella/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/prXVPY4lemQXr92z7woCnA,1696280410/streaming/telenovella/324/1/index.m3u8
 #EXTINF:-1 tvg-id="Киносерия" tvg-name="Киносерия" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgEYoYN1Lr2PjakdQv.png" group-title="Фильмовые", Киносерия
 #EXTGRP:Фильмовые
 http://31.40.155.227:9595/play/kinoseriya
@@ -181,7 +181,7 @@ https://tbs01-edge11.itdc.ge/kinoujas/tracks-v1a1/mono.m3u8
 rtmp://5.182.231.251//2056
 #EXTINF:-1 tvg-name="Horror TV" group-title="Фильмовые", Horror TV
 #EXTGRP:Фильмовые
-https://mhd116.iptv2022.com/p/0NM0JIFq54u-5ecHsurBpQ,1695934809/streaming/horror_tv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/nXo4-4cBYyi6rQJQ0pSLCw,1696280410/streaming/horror_tv/324/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Страх HD" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png" group-title="Фильмовые", Страх HD
 #EXTGRP:Фильмовые
 https://hls.goodgame.ru/hls/202127.m3u8
@@ -949,7 +949,7 @@ http://193.33.240.8:8080/fan/tracks-v1a1/mono.m3u8
 https://cdn-lb.iptv2022.com/p/13QoSLqoqInfUh8H8cUhaQ,1688590814/streaming/gingerhd/324/1/tracks-v5a1/index.m3u8
 #EXTINF:-1 tvg-name="Anime Kids" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goajklxXVmPjYb7BWK4E.png" group-title="Детские", Anime Kids
 #EXTGRP:Детские
-https://mhd116.iptv2022.com/p/swMG03eEgWiMMuIO77gSaQ,1695934810/streaming/anime_kids/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/9JrQ4Dkt_VIxy9KycEVIHg,1696280411/streaming/anime_kids/324/1/index.m3u8
 #EXTINF:-1 tvg-id="jimjam" tvg-name="Jim Jam" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgvzxYN1Lr2PjakdQv.png" group-title="Детские", Jim Jam
 #EXTGRP:Детские
 http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
@@ -1123,7 +1123,7 @@ http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
 https://cdn-cache01.voka.tv/live/1400.m3u8
 #EXTINF:-1 tvg-name="Anime TV" group-title="Развлекательные", Anime TV
 #EXTGRP:Развлекательные
-https://mhd116.iptv2022.com/p/mu94JcDlhYmFPTzLxRVGVw,1695934809/streaming/anime_tv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/_0F6S76izP6sZPGeL-Scdg,1696280410/streaming/anime_tv/324/1/index.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="Travel+Adventure FHD" tvg-logo="https://app.playlistbox.com/icon/YyWKm9lLEGakqPMQO1oBOnNdRr06XV32.png" group-title="Развлекательные", Travel+Adventure FHD
 #EXTGRP:Развлекательные
 http://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
