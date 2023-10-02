@@ -2750,6 +2750,3 @@ http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/18169/index.m3u8
 #EXTINF:-1 tvg-rec="0" tvg-name="UZ Фантастика HD" tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxY99axVkQXvADRObGP7.png" group-title="VF & UZ", UZ Фантастика HD
 #EXTGRP:VF & UZ
 http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/13065/index.m3u8
-#EXTINF:-1 tvg-name="MultHd" group-title="Без группы", MultHd
-#EXTGRP:Без группы
-http://31.133.50.89:4022/udp/225.15.3.1:2345
